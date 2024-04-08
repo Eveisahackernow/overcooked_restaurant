@@ -2,7 +2,7 @@
 Overcooked - The Restaurant Schema is a MySQL database project inspired by the popular game Overcooked. Designed to simulate the dynamic operations of a restaurant, this project streamlines order management, inventory control, and financial analysis. 
 
 # Schema Overview
-- 10 Tables: Manage orders, inventory, finances, and more. Includes tables for orders, menu items, food recipes, ingredients, inventory, cashier transactions, and procurement.
+- 10 Tables: Manage orders, inventory, finances, and more. Includes tables for orders, menu items, food recipes, ingredients, inventory, cashier transactions, and procurement. Check the [EED Diagram](https://github.com/Eveisahackernow/overcooked_restaurant/blob/main/Overcooked_Restaurant_EED.png) for table relationship details.
 - 6 Stored Procedures: Ensure seamless interaction between database tables.
     Automate core restaurant operations:
     - Process Client Order
